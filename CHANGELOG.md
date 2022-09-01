@@ -2,7 +2,7 @@
 
 ## Issue #565
 
-- Upgrade the version of htmlparser2
+- Upgrades `htmlparser2` to new major version `^8.0.0`.
 
 ## 2.7.1 (2022-07-20)
 
