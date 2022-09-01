@@ -1,5 +1,9 @@
 # Changelog
 
+## Issue #565
+
+- Upgrade the version of htmlparser2
+
 ## 2.7.1 (2022-07-20)
 
 - Protocol-relative URLs are properly supported for script tags. Thanks to [paweljq](https://github.com/paweljq).
